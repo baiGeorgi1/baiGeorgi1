@@ -13,7 +13,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 ![alt text][logo] ![alt text][png]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Mocha"
-[png]: ../pngegg.png
+[png]: ..//pngegg.png
 - 💻 JavaScript,HTML,CSS
 
 - ⚛️React
