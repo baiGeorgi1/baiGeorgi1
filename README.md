@@ -12,7 +12,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 ####  Skills and Experience:
 ![alt text][logo] ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Mocha"
 - 💻 JavaScript,HTML,CSS
 
 - ⚛️React
@@ -27,15 +27,6 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
  
-```python
-s = "Python syntax highlighting"
-print s
-```
- var s = "JavaScript syntax highlighting";
-alert(s);
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiGeorgi1&theme=prussian)
