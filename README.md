@@ -16,6 +16,6 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 - 🇧🇬 🇬🇧
 
 #### Exapmles of my work
-- [I'm a relative reference to a repository file](https://github.com/baiGeorgi1/JS-BackEnd-Exam)
+- [JS-BackEnd](https://github.com/baiGeorgi1/JS-BackEnd-Exam)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiGeorgi1&theme=prussian)
