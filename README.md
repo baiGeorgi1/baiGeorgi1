@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Georgi from Etropole,Bulgaria, and I really enjoy learning languages and frameworks.
+I'm Georgi from Etropole,Bulgaria. I really enjoy learning languages and frameworks.
 I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 
 
@@ -14,5 +14,8 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 - ⚛️React
 #### Speaking languages
 - 🇧🇬 🇬🇧
+
+#### Exapmles of my work
+- [I'm a relative reference to a repository file](https://github.com/baiGeorgi1/JS-BackEnd-Exam)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiGeorgi1&theme=prussian)
