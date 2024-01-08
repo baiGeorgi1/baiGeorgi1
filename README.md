@@ -10,7 +10,11 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 #### Connect with me:
 
 ####  Skills and Experience:
+![alt text][logo] ![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 - 💻 JavaScript,HTML,CSS
+
 - ⚛️React
 #### Speaking languages
 - 🇧🇬 🇬🇧
