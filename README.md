@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm Georgi
 
-**baiGeorgi1/baiGeorgi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from Etropole,Bulgaria
 
 Here are some ideas to get you started:
 
