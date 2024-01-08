@@ -10,5 +10,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 - ⚡ Fun fact: ...
 #### Connect with me:
 
-#### Languages and Tools:
+####  Languages and Tools:
+- 💻 JavaScript,HTML,CSS
+- ⚛️React
 
