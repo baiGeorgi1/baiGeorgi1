@@ -22,4 +22,19 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 #### Exapmles of my work
 - [JS-BackEnd](https://github.com/baiGeorgi1/JS-BackEnd-Exam)
 
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiGeorgi1&theme=prussian)
