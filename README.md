@@ -17,7 +17,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [NodeJS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/nodeJS.png "NodeJS"
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 [HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
-
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 - 💻 JavaScript,HTML,CSS
 
