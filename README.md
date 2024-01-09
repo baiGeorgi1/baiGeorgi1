@@ -20,7 +20,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/postman.png
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 [HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
-[1]:https://www.w3schools.com/js/
+[1]:[opens in new tab](https://www.w3schools.com/js/)
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 - 💻 JavaScript,HTML,CSS
