@@ -22,7 +22,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
 [1]:https://www.w3schools.com/js/
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-[opens in new tab](https://www.w3schools.com/js/)
+[Opens in new tab](https://external.ink?to=/placeholder.com)
 - 💻 JavaScript,HTML,CSS
 
 - ⚛️React
