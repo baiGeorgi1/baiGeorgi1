@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Georgi from Etropole,Bulgaria. I really enjoy learning languages and frameworks.
+I'm Georgi from ,Bulgaria. I really enjoy learning languages and frameworks.
 I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 
 
@@ -10,7 +10,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 #### Connect with me:
 
 ####  Skills and Experience:
-[![JavaScript][JS]][1] [![HTML][HTML5]][2] [![css3][CSS3]][3] [![node.js][NodeJS]][4] ![alt text][logo] ![alt text][JS] ![alt text][JS] ![alt text][JS]
+[![JavaScript][JS]][1] [![HTML][HTML5]][2] [![css3][CSS3]][3] [![node.js][NodeJS]][4] [![postman][Postman]][5] [![node.js][NodeJS]][6] [![node.js][NodeJS]][7]
 
 [![test][logo]](http://www.google.bg)
 
@@ -18,17 +18,17 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
 [CSS3]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/css-3.png "CSS3"
 [NodeJS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/nodeJS.png "NodeJS"
-[postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/postman.png
+[Postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/postman.png
 [HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
 [1]: https://external.ink?to=/w3schools.com/js/
 [2]: https://external.ink?to=/w3schools.com/html/
 [3]: https://external.ink?to=/w3schools.com/css/
 [4]: https://external.ink?to=/w3schools.com/nodejs/
-[4]: https://external.ink?to=/
-[4]: https://external.ink?to=/
-[4]: https://external.ink?to=/
-[4]: https://external.ink?to=/
-[4]: https://external.ink?to=/
+[5]: https://external.ink?to=/postman.com
+[6]: https://external.ink?to=/
+[7]: https://external.ink?to=/
+[8]: https://external.ink?to=/
+[9]: https://external.ink?to=/
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 [Opens in new tab](https://external.ink?to=/placeholder.com)
 - 💻 JavaScript,HTML,CSS
