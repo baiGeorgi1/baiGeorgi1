@@ -10,7 +10,8 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 #### Connect with me:
 
 ####  Skills and Experience:
-![JavaScript][JS] ![alt text][HTML5] ![alt text][NodeJS] ![alt text][logo] ![alt text][JS] ![alt text][JS] ![alt text][JS] [Foo]
+![JavaScript][JS] ![alt text][HTML5] ![alt text][NodeJS] ![alt text][logo] ![alt text][JS] ![alt text][JS] ![alt text][JS]
+[![test][JS]](http://googe.bg)
 
 [JS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/JS_48x48.png (https://www.google.com "Google's Homepage")
 [HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
