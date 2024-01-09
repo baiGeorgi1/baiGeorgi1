@@ -12,7 +12,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 ####  Skills and Experience:
 ![alt text][JS]
 
-[JS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/pnegg.png "JavaScript"\
+[JS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/pngegg.png "JavaScript"\
 
 
 - 💻 JavaScript,HTML,CSS
