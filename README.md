@@ -11,6 +11,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 
 ####  Skills and Experience:
 [![JavaScript][JS]][1] [![HTML][HTML5]][2] [![css3][CSS3]][3] [![node.js][NodeJS]][4]  [![node.js][NodeJS]][6] [![node.js][NodeJS]][7]
+
 [![postman][Postman]][5]
 [![test][logo]](http://www.google.bg)
 
