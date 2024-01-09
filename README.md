@@ -21,8 +21,8 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/postman.png
 [HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
 [1]: https://external.ink?to=/w3schools.com/js/
-[2]: https://www.w3schools.com/html/
-[3]: https://www.tutorialspoint.com/css/css3_tutorial.htm
+[2]: https://external.ink?to=/w3schools.com/html/
+[3]:  https://external.ink?to=/w3schools.com/css/
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 [Opens in new tab](https://external.ink?to=/placeholder.com)
 - 💻 JavaScript,HTML,CSS
