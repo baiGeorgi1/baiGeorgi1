@@ -10,9 +10,9 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 #### Connect with me:
 
 ####  Skills and Experience:
-![alt text][logo] ![alt text][NodeJS]
+![alt text][JS] ![alt text][NodeJS]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Mocha"
+[JS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/JS_48x48.png "JavaScript"
 [nodeJs]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/pngegg.png "NodeJS"
 - 💻 JavaScript,HTML,CSS
 
