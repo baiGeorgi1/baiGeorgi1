@@ -12,10 +12,11 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 ####  Skills and Experience:
 ![JavaScript][JS] ![alt text][HTML5] ![alt text][NodeJS] ![alt text][logo] ![alt text][JS] ![alt text][JS] ![alt text][JS] [Foo]
 
-[![postman](https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/postman.png)]
+[![postman](google.bg)]
 [JS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/JS_48x48.png (https://www.google.com "Google's Homepage")
 [HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
 [NodeJS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/nodeJS.png "NodeJS"
+[postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/postman.png
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 [HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
