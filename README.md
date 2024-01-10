@@ -12,18 +12,19 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 ####  Skills and Experience:
 [![JavaScript][JS]][1] [![HTML][HTML5]][2] [![CSS][CSS3]][3] [![|Node.js][nodeJS]][4]  [![React][react]][6] [![MongoDB][mongoDB]][7] [![Mocha][mocha]][8] [![Chai][chai]][9]
 
-[![postman][Postman]][5]
-[![test][logo]](http://www.google.bg)
+[![postman][Postman]][5] [![Bootstrap][bootstrap]][5]
 
-[JS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/JS_48x48.png "JavaScript"
-[HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
+
+[bootstrap]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/bootstrap.png "Bootstrap"
+[chai]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/chai.png "Chai"
 [CSS3]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/css-3.png "CSS3"
+[HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
+[JS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/JS_48x48.png "JavaScript"
+[mocha]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/mocha.png "Mocha"
+[mongoDB]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/mongDB.png "MongoDB"
 [nodeJS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/nodeJS.png "NodeJS"
 [Postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/postman.png
 [react]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/react.png
-[mongoDB]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/mongDB.png "MongoDB"
-[mocha]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/mocha.png "Mocha"
-[chai]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/chai.png "Chai"
 
 [1]: https://external.ink?to=/w3schools.com/js/
 [2]: https://external.ink?to=/w3schools.com/html/
@@ -34,8 +35,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [7]: https://external.ink?to=/mongodb.com
 [8]: https://external.ink?to=/mochajs.org
 [9]: https://external.ink?to=/chaijs.com
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-<a target="blank>"(https://external.ink?to=/placeholder.com)
+
 - 💻 JavaScript,HTML,CSS
 
 - ⚛️React
