@@ -9,6 +9,10 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 - ⚡ Fun fact: ...
 #### Connect with me:
 
+[![Linkedin][linkedin]](www.linkedin.com/in/georgi-georgiev-999b50295)
+
+[linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/linkedin.ico
+
 ####  Skills and Experience:
 [![JavaScript][JS]][1] [![HTML][HTML5]][2] [![CSS][CSS3]][3] [![|Node.js][nodeJS]][4]  [![React][react]][6] [![MongoDB][mongoDB]][7] [![Mocha][mocha]][8] [![Chai][chai]][9]
 
