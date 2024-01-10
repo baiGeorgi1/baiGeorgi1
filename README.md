@@ -36,17 +36,14 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [8]: https://external.ink?to=/mochajs.org
 [9]: https://external.ink?to=/chaijs.com
 
-#### Speaking languages
+#### Speaking languages:
  - [x] 🇧🇬
  - [x] 🇬🇧
 
-#### Exapmles of my work
+<!-- #### Exapmles of my work
 - [JS-BackEnd](https://github.com/baiGeorgi1/JS-BackEnd-Exam)
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+-->
  
 
 
