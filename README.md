@@ -9,7 +9,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 - ⚡ Fun fact: ...
 #### Connect with me:
 
-[![Linkedin][linkedin]](www.linkedin.com/in/georgi-georgiev-999b50295)
+[![Linkedin][linkedin]](https://external.ink?to=/linkedin.com/in/georgi-georgiev-999b50295)
 
 [linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/linkedin.ico
 
