@@ -1,5 +1,6 @@
 ![Header](./images/header.png)
 
+---
 
 I'm Georgi from ,Bulgaria. I really enjoy learning languages and frameworks.
 I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
