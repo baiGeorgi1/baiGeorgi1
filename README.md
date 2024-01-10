@@ -35,7 +35,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [8]: https://external.ink?to=/mochajs.org
 [9]: https://external.ink?to=/chaijs.com
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-[Opens in new tab](https://external.ink?to=/placeholder.com)
+<a target="blank>"(https://external.ink?to=/placeholder.com)
 - 💻 JavaScript,HTML,CSS
 
 - ⚛️React
