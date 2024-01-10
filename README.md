@@ -54,8 +54,4 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baiGeorgi1&theme=prussian)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiGeorgi1&theme=prussian)
 
-### Github Streaks
-<img src="https://github-readme-stats.herokuapp.com/?user=baiGeorgi1&theme=prussian" width="48%" >
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baiGeorgi1&layout=compact)
 
