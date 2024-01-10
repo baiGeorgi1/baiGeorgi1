@@ -46,6 +46,10 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 
 -->
  
+<a href="https://github.com/baiGeorgi1"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baiGeorgi1&layout=compact&theme=prussian&hide_border=true" /></a> 
+<a href="https://github.com/baiGeorgi1"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=baiGeorgi1&theme=prussian&hide_border=true" /></a> 
+
+---
 #### Connect with me:
 
 [![Linkedin][linkedin]](https://external.ink?to=/linkedin.com/in/georgi-georgiev-999b50295)
@@ -55,8 +59,6 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [gmail]: #
 
 
-<a href="https://github.com/baiGeorgi1"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baiGeorgi1&layout=compact&theme=prussian&hide_border=true" /></a> 
-<a href="https://github.com/baiGeorgi1"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=baiGeorgi1&theme=prussian&hide_border=true" /></a> 
 
 
 
