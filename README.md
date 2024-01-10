@@ -36,10 +36,8 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [8]: https://external.ink?to=/mochajs.org
 [9]: https://external.ink?to=/chaijs.com
 
-- 💻 JavaScript,HTML,CSS
-
-- ⚛️React
 #### Speaking languages
+-[x] 🇧🇬
 - 🇧🇬 🇬🇧
 
 #### Exapmles of my work
