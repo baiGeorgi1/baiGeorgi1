@@ -16,15 +16,15 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 
 
 [bootstrap]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/bootstrap.png "Bootstrap"
-[chai]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/chai.png "Chai"
-[CSS3]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/css-3.png "CSS3"
-[HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
-[JS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/JS_48x48.png "JavaScript"
-[mocha]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/mocha.png "Mocha"
-[mongoDB]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/mongDB.png "MongoDB"
-[nodeJS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/nodeJS.png "NodeJS"
-[Postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/postman.png
-[react]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/react.png
+[chai]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/chai.png "Chai"
+[CSS3]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/css-3.png "CSS3"
+[HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/HTML5.png "HTML5"
+[JS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/JS_48x48.png "JavaScript"
+[mocha]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/mocha.png "Mocha"
+[mongoDB]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/mongDB.png "MongoDB"
+[nodeJS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/nodeJS.png "NodeJS"
+[Postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/postman.png
+[react]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/react.png
 
 [1]: https://external.ink?to=/w3schools.com/js/
 [2]: https://external.ink?to=/w3schools.com/html/
