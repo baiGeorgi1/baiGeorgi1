@@ -38,7 +38,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 
 #### Speaking languages
  - [x] 🇧🇬
-- 🇧🇬 🇬🇧
+ - [x] 🇬🇧
 
 #### Exapmles of my work
 - [JS-BackEnd](https://github.com/baiGeorgi1/JS-BackEnd-Exam)
