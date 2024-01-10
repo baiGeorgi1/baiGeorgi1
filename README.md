@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Georgi_Georgiev&fontSize=100)
+![Header](./images/header.png)
 # Hi there 👋 
 
 I'm Georgi from ,Bulgaria. I really enjoy learning languages and frameworks.
@@ -50,7 +50,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [![Linkedin][linkedin]](https://external.ink?to=/linkedin.com/in/georgi-georgiev-999b50295)
 [![Gmail][gmail]](https://external.ink?to=/gogolino1982@gmail.com)
 
-[linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/linkedin.ico
+[linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/linkedin.ico
 [gmail]: #
 
 
