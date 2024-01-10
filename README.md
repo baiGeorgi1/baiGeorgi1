@@ -51,6 +51,5 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/linkedin.ico
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiGeorgi1&theme=prussian)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baiGeorgi1&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiGeorgi1&theme=prussian)
