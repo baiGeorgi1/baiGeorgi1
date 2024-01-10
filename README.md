@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Georgi_Georgiev&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient(to_bottom)&height=200&section=header&text=Georgi_Georgiev&fontSize=100)
 # Hi there 👋 
 
 I'm Georgi from ,Bulgaria. I really enjoy learning languages and frameworks.
