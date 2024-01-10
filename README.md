@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Georgi_Georgiev&fontSize=100)
+![Header](./images/header.png)
 # Hi there 👋 
 
 I'm Georgi from ,Bulgaria. I really enjoy learning languages and frameworks.
@@ -15,16 +15,16 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [![postman][Postman]][5] [![Bootstrap][bootstrap]][5]
 
 
-[bootstrap]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/bootstrap.png "Bootstrap"
-[chai]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/chai.png "Chai"
-[CSS3]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/css-3.png "CSS3"
-[HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
-[JS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/JS_48x48.png "JavaScript"
-[mocha]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/mocha.png "Mocha"
-[mongoDB]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/mongDB.png "MongoDB"
-[nodeJS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/nodeJS.png "NodeJS"
-[Postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/postman.png
-[react]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/react.png
+[bootstrap]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/bootstrap.png "Bootstrap"
+[chai]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/chai.png "Chai"
+[CSS3]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/css-3.png "CSS3"
+[HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/HTML5.png "HTML5"
+[JS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/JS_48x48.png "JavaScript"
+[mocha]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/mocha.png "Mocha"
+[mongoDB]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/mongDB.png "MongoDB"
+[nodeJS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/nodeJS.png "NodeJS"
+[Postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/postman.png
+[react]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/react.png
 
 [1]: https://external.ink?to=/w3schools.com/js/
 [2]: https://external.ink?to=/w3schools.com/html/
@@ -50,7 +50,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [![Linkedin][linkedin]](https://external.ink?to=/linkedin.com/in/georgi-georgiev-999b50295)
 [![Gmail][gmail]](https://external.ink?to=/gogolino1982@gmail.com)
 
-[linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/linkedin.ico
+[linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/linkedin.ico
 [gmail]: #
 
 
