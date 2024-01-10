@@ -9,7 +9,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 - ⚡ Fun fact: ...
 
 ####  Skills and Experience:
-[![JavaScript][JS]][1] [![HTML][HTML5]][2] [![CSS][CSS3]][3] [![|Node.js][nodeJS]][4]  [![React][react]][6] [![MongoDB][mongoDB]][7] [![Mocha][mocha]][8] [![Chai][chai]][9]
+[![JavaScript][JS]][1] [![HTML][HTML5]][2] [![CSS][CSS3]][3] [![|Node.js][nodeJS]][4] [![MongoDB][mongoDB]][7] [![React][react]][6]  [![Mocha][mocha]][8] [![Chai][chai]][9]
 
 [![postman][Postman]][5] [![Bootstrap][bootstrap]][5]
 
@@ -47,6 +47,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 #### Connect with me:
 
 [![Linkedin][linkedin]](https://external.ink?to=/linkedin.com/in/georgi-georgiev-999b50295)
+[![Gmail][gmail]](https://external.ink?to=/gogolino1982@gmail.com)
 
 [linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/linkedin.ico
 
