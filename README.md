@@ -10,7 +10,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 #### Connect with me:
 
 ####  Skills and Experience:
-[![JavaScript][JS]][1] [![HTML][HTML5]][2] [![CSS][CSS3]][3] [![|Node.js][nodeJS]][4]  [![React][react]][6] [![MongoDB][mongoDB]][7]
+[![JavaScript][JS]][1] [![HTML][HTML5]][2] [![CSS][CSS3]][3] [![|Node.js][nodeJS]][4]  [![React][react]][6] [![MongoDB][mongoDB]][7] [![Mocha][mocha]][8] [![Chai][chai]][9]
 
 [![postman][Postman]][5]
 [![test][logo]](http://www.google.bg)
@@ -22,6 +22,9 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [Postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/postman.png
 [react]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/react.png
 [mongoDB]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/mongDB.png "MongoDB"
+[mocha]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/mocha.png "Mocha"
+[chai]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/chai.png "Chai"
+
 [1]: https://external.ink?to=/w3schools.com/js/
 [2]: https://external.ink?to=/w3schools.com/html/
 [3]: https://external.ink?to=/w3schools.com/css/
@@ -29,8 +32,8 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [5]: https://external.ink?to=/postman.com
 [6]: https://external.ink?to=/react.dev
 [7]: https://external.ink?to=/mongodb.com
-[8]: https://external.ink?to=/
-[9]: https://external.ink?to=/
+[8]: https://external.ink?to=/mochajs.org
+[9]: https://external.ink?to=/chaijs.com
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 [Opens in new tab](https://external.ink?to=/placeholder.com)
 - 💻 JavaScript,HTML,CSS
