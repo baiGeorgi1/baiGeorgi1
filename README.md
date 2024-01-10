@@ -50,7 +50,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [![Gmail][gmail]](https://external.ink?to=/gogolino1982@gmail.com)
 
 [linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/linkedin.ico
-
+[gmail]: #
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baiGeorgi1&theme=prussian)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiGeorgi1&theme=prussian)
