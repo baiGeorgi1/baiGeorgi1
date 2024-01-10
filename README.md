@@ -15,7 +15,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [![postman][Postman]][5] [![Bootstrap][bootstrap]][5]
 
 
-[bootstrap]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/bootstrap.png "Bootstrap"
+[bootstrap]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/bootstrap.png "Bootstrap"
 [chai]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/chai.png "Chai"
 [CSS3]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/css-3.png "CSS3"
 [HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/icons/HTML5.png "HTML5"
