@@ -55,7 +55,7 @@
 <a href="https://github.com/baiGeorgi1"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=baiGeorgi1&theme=prussian&hide_border=true" /></a> 
 
  <p align="right">
-<img src="https://komarev.com/ghpvc/?username=baiGeorgi1&abbreviated=true&label=Visitors&base=1000&abbreviated=true&style=plastic&color=42cbfc" />
+<img src="https://komarev.com/ghpvc/?username=baiGeorgi1&abbreviated=true&label=Visitors&base=1501&abbreviated=true&style=plastic&color=42cbfc" />
 </p>
 
 ---
