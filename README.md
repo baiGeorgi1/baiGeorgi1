@@ -54,7 +54,7 @@
 <a href="https://github.com/baiGeorgi1"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baiGeorgi1&layout=compact&theme=prussian&hide_border=true" /></a> 
 <a href="https://github.com/baiGeorgi1"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=baiGeorgi1&theme=prussian&hide_border=true" /></a> 
 
-[![Facebook][facebook]](https://external.ink?to=facebook.com/GeorgiGeorgiev1982/) <p align="right">
+ <p align="right">
 <img src="https://komarev.com/ghpvc/?username=baiGeorgi1&abbreviated=true&label=Visitors&base=1000&abbreviated=true&style=plastic&color=42cbfc" />
 </p>
 
@@ -63,6 +63,7 @@
 
 [![Gmail][gmail]](mailto:https://gogolino1982@gmail.com)
 [![Linkedin][linkedin]](https://external.ink?to=/linkedin.com/in/georgi-georgiev-999b50295)
+[![Facebook][facebook]](https://external.ink?to=facebook.com/GeorgiGeorgiev1982/)
 
 [gmail]: /images/gmail.png
 [linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/linkedin.ico
