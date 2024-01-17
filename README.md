@@ -59,8 +59,7 @@
 
 [![Gmail][gmail]](mailto:https://gogolino1982@gmail.com)
 [![Linkedin][linkedin]](https://external.ink?to=/linkedin.com/in/georgi-georgiev-999b50295)
-[![Facebook][facebook]](https://external.ink?to=facebook.com/GeorgiGeorgiev1982/)
-<p align="right">
+[![Facebook][facebook]](https://external.ink?to=facebook.com/GeorgiGeorgiev1982/) <p align="right">
 <img src="https://komarev.com/ghpvc/?username=baiGeorgi1&abbreviated=true&label=Visitors&base=1000&abbreviated=true&style=plastic&color=42cbfc" />
 </p>
 
