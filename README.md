@@ -7,6 +7,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=baiGeorgi1&theme=dark_dimmed&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+![color picker](https://bobbyhadz.com/images/blog/change-vscode-integrated-terminal-colors/hover-over-color.gif)
+
+
 - 🌱 I'm currently learning HTML&CSS
  
 - 😇 I treat my assigned tasks seriously,good skills at problem solving, love to work in team, easily adaptable in every work enviroments!
