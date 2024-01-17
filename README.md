@@ -7,6 +7,8 @@
 - 🌱 I'm currently learning HTML&CSS
  
 - 😇 I treat my assigned tasks seriously,good skills at problem solving, love to work in team, easily adaptable in every work enviroments!
+ 
+- 😎 My hobbies are  beekeeping and computer games😳!
 
 - ⚡ Fun fact: Bright-eyed people like to aim high. They look forward to the future and always succeed in achieving what they set out to achieve. They have great energy potential. There is no obstacle that scares them - they pass through it with ease. They almost never give up. They like to give advices that turns out to be golden.
 
