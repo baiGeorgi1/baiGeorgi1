@@ -5,7 +5,7 @@
 
 ### I'm Georgi from ,Bulgaria. I am a passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=baiGeorgi1&theme=oldie&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=baiGeorgi1&theme=dark_dimmed&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I'm currently learning HTML&CSS
  
