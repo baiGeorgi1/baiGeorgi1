@@ -10,7 +10,7 @@
 
  hi sgdgdgdrdgdgdfgdgdsfbghfffffffffffffffffffffffffffffffffffffffffffffffffff <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"> {: style="float: right"}
 
- ![image](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif){: style="float: left"}
+ ![image](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif){: style="float: right"}
 
 Some text
 
