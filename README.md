@@ -56,11 +56,13 @@
 ---
 #### Connect with me:
 
-[![Linkedin][linkedin]](https://external.ink?to=/linkedin.com/in/georgi-georgiev-999b50295)
 [![Gmail][gmail]](mailto:https://gogolino1982@gmail.com)
+[![Linkedin][linkedin]](https://external.ink?to=/linkedin.com/in/georgi-georgiev-999b50295)
+[![Facebook][facebook]](https://external.ink?to=/linkedin.com/in/georgi-georgiev-999b50295)
 
-[linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/linkedin.ico
 [gmail]: /images/gmail.png
+[linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/linkedin.ico
+[facebook]:
 
 
 
