@@ -62,7 +62,7 @@
 
 [gmail]: /images/gmail.png
 [linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/linkedin.ico
-[facebook]:
+[facebook]: /images/facebook.png
 
 
 
