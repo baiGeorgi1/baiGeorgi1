@@ -60,7 +60,7 @@
 [![Gmail][gmail]](https://external.ink?to=/gogolino1982@gmail.com)
 
 [linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/linkedin.ico
-[gmail]: ./main/images/linkedin.ico
+[gmail]: /images/linkedin.ico
 
 
 
