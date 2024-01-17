@@ -2,7 +2,7 @@
 
 ---
 
-#### I'm Georgi from ,Bulgaria. I am a passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.
+### I'm Georgi from ,Bulgaria. I am a passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.
 ![](https://komarev.com/ghpvc/?username=baiGeorgi1&abbreviated=true)
 
 - 🌱 I'm currently learning HTML&CSS
