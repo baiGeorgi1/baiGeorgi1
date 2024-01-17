@@ -11,7 +11,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 - ⚡ Fun fact: ...
 
 ####  Skills and Experience:
-[![JavaScript][JS]][1] [![HTML][HTML5]][2] [![CSS][CSS3]][3] [![|Node.js][nodeJS]][4] [![MongoDB][mongoDB]][7] [![React][react]][6]  [![Mocha][mocha]][8] [![Chai][chai]][9]
+[![JavaScript][JS]][1] [![HTML][HTML5]][2] [![CSS][CSS3]][3] [![|Node.js][nodeJS]][4] [![MongoDB][mongoDB]][7] [![React][react]][6] [![Vite][vite]][10] [![Mocha][mocha]][8] [![Chai][chai]][9]
 
 [![postman][Postman]][5] [![Bootstrap][bootstrap]][5]
 
@@ -26,6 +26,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [nodeJS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/nodeJS.png "NodeJS"
 [Postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/postman.png
 [react]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/react.png
+[vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
 
 [1]: https://external.ink?to=/w3schools.com/js/
 [2]: https://external.ink?to=/w3schools.com/html/
@@ -36,6 +37,7 @@ I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
 [7]: https://external.ink?to=/mongodb.com
 [8]: https://external.ink?to=/mochajs.org
 [9]: https://external.ink?to=/chaijs.com
+[10]: https://external.ink?to=/vitejs.dev
 
 #### Speaking languages:
  - [x] 🇧🇬
