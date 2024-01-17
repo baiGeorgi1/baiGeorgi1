@@ -8,7 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=baiGeorgi1&theme=dark_dimmed&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450" align="right">
+ <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450" height=450 align="right">
 
 - 🌱 I'm currently learning HTML&CSS
  
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact: Bright-eyed people like to aim high. They look forward to the future and always succeed in achieving what they set out to achieve. They have great energy potential. There is no obstacle that scares them - they pass through it with ease. They almost never give up. They like to give advices that turns out to be golden.
 
----
+
 
 ####  Skills and Experience:
 [![JavaScript][JS]][1] [![HTML][HTML5]][2] [![CSS][CSS3]][3] [![|Node.js][nodeJS]][4] [![MongoDB][mongoDB]][7] [![React][react]][6] [![Vite][vite]][10] [![Mocha][mocha]][8] [![Chai][chai]][9]
