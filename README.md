@@ -57,7 +57,7 @@
 #### Connect with me:
 
 [![Linkedin][linkedin]](https://external.ink?to=/linkedin.com/in/georgi-georgiev-999b50295)
-[![Gmail][gmail]](mailto:https://external.ink?to=/gogolino1982@gmail.com)
+[![Gmail][gmail]](mailto:https://gogolino1982@gmail.com)
 
 [linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/linkedin.ico
 [gmail]: /images/gmail.png
