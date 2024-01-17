@@ -6,9 +6,7 @@
 
 - 🌱 I'm currently learning HTML&CSS
  
-- 
-
-- 📫 How to reach me: gogolino1982@gmail.com
+- 😇 I treat my assigned tasks seriously,good skills at problem solving, love to work in team, easily adaptable in every work enviroments!
 
 - ⚡ Fun fact: ...
 
