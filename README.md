@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact: Bright-eyed people like to aim high. They look forward to the future and always succeed in achieving what they set out to achieve. They have great energy potential. There is no obstacle that scares them - they pass through it with ease. They almost never give up. They like to give advices that turns out to be golden.
 
-
+---
 
 ####  Skills and Experience:
 [![JavaScript][JS]][1] [![HTML][HTML5]][2] [![CSS][CSS3]][3] [![|Node.js][nodeJS]][4] [![MongoDB][mongoDB]][7] [![React][react]][6] [![Vite][vite]][10] [![Mocha][mocha]][8] [![Chai][chai]][9]
@@ -36,11 +36,6 @@
 [nodeJS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/nodeJS.png "NodeJS"
 [Postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/postman.png
 [react]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/react.png
-[vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
-[vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
-[vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
-[vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
-[vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
 [vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
 
 [1]: https://external.ink?to=/w3schools.com/js/
