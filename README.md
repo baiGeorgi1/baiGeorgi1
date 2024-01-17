@@ -2,8 +2,8 @@
 
 ---
 
-I'm Georgi from ,Bulgaria. I really enjoy learning languages and frameworks.
-I’m currently learning HTML5, CSS3, JavaScript, NodeJS and React.
+I'm Georgi from ,Bulgaria. Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. 
+Always eager to learn and take on new challenges in the tech world
 
 
 - 📫 How to reach me: gogolino1982@gmail.com
