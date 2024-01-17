@@ -37,6 +37,11 @@
 [Postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/postman.png
 [react]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/react.png
 [vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
+[vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
+[vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
+[vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
+[vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
+[vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
 
 [1]: https://external.ink?to=/w3schools.com/js/
 [2]: https://external.ink?to=/w3schools.com/html/
