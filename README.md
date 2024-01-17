@@ -6,8 +6,6 @@
 ### I'm Georgi from ,Bulgaria. I am a passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.
 </br>
 </br>
-</br>
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=baiGeorgi1&theme=dark_dimmed&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -22,6 +20,7 @@
 
 - ⚡ Fun fact: Bright-eyed people like to aim high. They look forward to the future and always succeed in achieving what they set out to achieve. They have great energy potential. There is no obstacle that scares them - they pass through it with ease. They almost never give up. They like to give advices that turns out to be golden.
 
+</br>
 
 
 ####  Skills and Experience:
