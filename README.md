@@ -42,7 +42,7 @@
 [10]: https://external.ink?to=/vitejs.dev
 
 #### Speaking languages:
- - [x] 🇧🇬
+ - [x] :keycap_ten 🇧🇬
  - [x] 🇬🇧
 
 <!-- #### Exapmles of my work
