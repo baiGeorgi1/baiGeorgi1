@@ -8,7 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=baiGeorgi1&theme=dark_dimmed&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450" height=350 align="right">
+ <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450" height=250 align="right">
 
 - 🌱 I'm currently learning HTML&CSS
  
