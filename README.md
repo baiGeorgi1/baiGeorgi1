@@ -8,7 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=baiGeorgi1&theme=dark_dimmed&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-| hi | ![color picker](https://bobbyhadz.com/images/blog/change-vscode-integrated-terminal-colors/hover-over-color.gif)
+| hi | ![color picker](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
 
 - 🌱 I'm currently learning HTML&CSS
