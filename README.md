@@ -13,7 +13,7 @@
 
  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450" height=300 align="right">
 
-- 🌱 I'm currently learning HTML&CSS
+- 🌱 I'm currently learning Angular
  
 - 😇 I treat my assigned tasks seriously,good skills at problem solving, love to work in team, easily adaptable in every work enviroments!
  
