@@ -15,7 +15,7 @@
 
 - 🌱 I'm currently learning **Software Engineering and DevOps**
 
-- 📜 [My certificates](https://softuni.bg/users/profile/certificates?username=BaiGeorgi)  
+- 📜 [My certificates](https://github.com/baiGeorgi1/baiGeorgi1/tree/main/certificates)  
  
 - 😇 I treat my assigned tasks seriously,good skills at problem solving, love to work in team, easily adaptable in every work enviroments!
  
