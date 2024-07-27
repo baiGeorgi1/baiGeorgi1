@@ -29,7 +29,7 @@
 
 
 ####  Skills and Experience:
-[![JavaScript][JS]] [![HTML][HTML5]] [![CSS][CSS3]] [![|Node.js][nodeJS]] [![MongoDB][mongoDB]] [![React][react]] [![Vite][vite]] [![Mocha][mocha]] [![Chai][chai]]
+![JavaScript][JS] ![HTML][HTML5] [![CSS][CSS3]] [![|Node.js][nodeJS]] [![MongoDB][mongoDB]] [![React][react]] [![Vite][vite]] [![Mocha][mocha]] [![Chai][chai]]
 
 [![postman][Postman]] [![Bootstrap][bootstrap]]
 
