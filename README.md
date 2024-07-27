@@ -34,7 +34,7 @@
 [![postman][Postman]][5] [![Bootstrap][bootstrap]][5]
 
 
-[bootstrap]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/bootstrap.png "Bootstrap"
+[bootstrap]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/bootstrap.png[1] "Bootstrap" 
 [chai]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/chai.png "Chai"
 [CSS3]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/css-3.png "CSS3"
 [HTML5]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/HTML5.png "HTML5"
