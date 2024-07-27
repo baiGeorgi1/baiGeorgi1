@@ -13,7 +13,9 @@
 
  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450" height=300 align="right">
 
-- 🌱 I'm currently learning **Software Engineering and DevOps**
+- 🌱 I'm currently learning **Containers and Cloud**
+
+- 📖 **Last:** Successfully finished **Software Engineering and DevOps** course
 
 - 📜 [My certificates](https://github.com/baiGeorgi1/baiGeorgi1/tree/main/certificates)  
  
