@@ -75,4 +75,5 @@
 
 [gmail]: /images/gmail.png
 [linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/linkedin.ico{:target="_blank"}
+[link](URL){:target="_blank"}
 [facebook]: /images/facebook.png
