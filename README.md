@@ -32,7 +32,7 @@
 
 ![JavaScript][JS] ![HTML][HTML5] ![CSS][CSS3] ![|Node.js][nodeJS] ![MongoDB][mongoDB] ![React][react] ![Mocha][mocha] ![Chai][chai] ![postman][Postman] ![Bootstrap][bootstrap]
 
-![Git][Git]
+![Git][Git] ![Docker][docker] ![Linux][linux]
 
 [bootstrap]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/bootstrap.png "Bootstrap"
 [chai]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/chai.png "Chai"
@@ -45,6 +45,8 @@
 [Postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/postman.png "Postman"
 [react]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/react.png "React"
 [git]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/git.png "Git"
+[docker]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/docker.png "Docker"
+[linux]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/linux.png "Linux"
 
 #### Speaking languages:
 
