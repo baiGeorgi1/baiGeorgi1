@@ -70,7 +70,7 @@
 #### Connect with me:
 
 [![Gmail][gmail]](mailto:https://gogolino1982@gmail.com)
-<a href="https://linkedin.com/in/georgi-georgiev-999b50295" target="_blank">
+<a href="https://linkedin.com/in/georgi-georgiev-999b50295" target="_new">
   <img src="https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/linkedin.ico " alt="LinkedIn" />
 </a>
 [![Linkedin][linkedin]](https://linkedin.com/in/georgi-georgiev-999b50295)
