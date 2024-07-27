@@ -29,9 +29,9 @@
 
 
 ####  Skills and Experience:
-[![JavaScript][JS]][1] [![HTML][HTML5]][2] [![CSS][CSS3]][3] [![|Node.js][nodeJS]][4] [![MongoDB][mongoDB]][7] [![React][react]][6] [![Vite][vite]][10] [![Mocha][mocha]][8] [![Chai][chai]][9]
+[![JavaScript][JS]] [![HTML][HTML5]] [![CSS][CSS3]] [![|Node.js][nodeJS]] [![MongoDB][mongoDB]] [![React][react]] [![Vite][vite]] [![Mocha][mocha]] [![Chai][chai]]
 
-[![postman][Postman]][5] [![Bootstrap][bootstrap]][5]
+[![postman][Postman]] [![Bootstrap][bootstrap]]
 
 
 [bootstrap]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/bootstrap.png "Bootstrap" 
