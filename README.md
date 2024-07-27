@@ -70,9 +70,9 @@
 #### Connect with me:
 
 [![Gmail][gmail]](mailto:https://gogolino1982@gmail.com)
-[![Linkedin][linkedin]](https://linkedin.com/in/georgi-georgiev-999b50295){:target="_blank"}
+[![Linkedin][linkedin]](https://linkedin.com/in/georgi-georgiev-999b50295)
 [![Facebook][facebook]](https://external.ink?to=facebook.com/GeorgiGeorgiev1982/)
 
 [gmail]: /images/gmail.png
-[linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/linkedin.ico
+[linkedin]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/linkedin.ico{:target="_blank"}
 [facebook]: /images/facebook.png
