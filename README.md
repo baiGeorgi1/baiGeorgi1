@@ -46,17 +46,6 @@
 [react]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/react.png
 [vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
 
-[1]: https://external.ink?to=/w3schools.com/js/
-[2]: https://external.ink?to=/w3schools.com/html/
-[3]: https://external.ink?to=/w3schools.com/css/
-[4]: https://external.ink?to=/w3schools.com/nodejs/
-[5]: https://external.ink?to=/postman.com
-[6]: https://external.ink?to=/react.dev
-[7]: https://external.ink?to=/mongodb.com
-[8]: https://external.ink?to=/mochajs.org
-[9]: https://external.ink?to=/chaijs.com
-[10]: https://external.ink?to=/vitejs.dev
-
 #### Speaking languages:
  - [x] 🇧🇬
  - [x] 🇬🇧
