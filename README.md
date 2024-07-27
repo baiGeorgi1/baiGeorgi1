@@ -70,7 +70,7 @@
 #### Connect with me:
 
 [![Gmail][gmail]](mailto:https://gogolino1982@gmail.com)
-[![Linkedin][linkedin]](https://external.ink?to=/linkedin.com/in/georgi-georgiev-999b50295)
+[![Linkedin][linkedin]](https://linkedin.com/in/georgi-georgiev-999b50295){:target="_blank"}
 [![Facebook][facebook]](https://external.ink?to=facebook.com/GeorgiGeorgiev1982/)
 
 [gmail]: /images/gmail.png
