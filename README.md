@@ -40,9 +40,9 @@
 [mocha]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/mocha.png "Mocha"
 [mongoDB]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/mongDB.png "MongoDB"
 [nodeJS]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/nodeJS.png "NodeJS"
-[Postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/postman.png
-[react]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/react.png
-[vite]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/vite.png
+[Postman]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/postman.png "Postman"
+[react]: https://github.com/baiGeorgi1/baiGeorgi1/blob/main/images/react.png "React"
+
 
 #### Speaking languages:
  - [x] 🇧🇬
